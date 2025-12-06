@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+SQLAlchemy
+psycopg2-binary
+neo4j
+python-dotenv
+langchain-groq
+pandas
+python-multipart
+pymupdf            # pip install pymupdf
+pillow            # for image handling
+pytesseract       # optional: for scanned images (requires Tesseract binary)
